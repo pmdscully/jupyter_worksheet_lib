@@ -1,0 +1,8 @@
+[project]
+name = "lib_worksheet"
+version = "v0.1.0-alpha"
+dependencies = [
+    'pandas',
+    'IPython',
+    'jupyterquiz====2.7.0a2'
+]
