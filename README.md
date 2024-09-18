@@ -5,7 +5,7 @@ This library helps support creating IPYNB worksheet exercises. Current version i
 
 
 ### Installation:
-Pip install should all dependencies, which include `pandas IPython jupyterquiz==2.7.0a4`.
+Pip install should install all required dependencies, which include `pandas, IPython, jupyterquiz==2.7.0a4`.
 ```
 pip install git+https://github.com/pmdscully/jupyter_worksheet_lib.git
 ```
