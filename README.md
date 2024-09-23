@@ -25,6 +25,7 @@ See the `example_notebook.ipynb` as an example IPYNB worksheet.
 
 #### Usage: Hints
 ```
+!pip install git+https://github.com/pmdscully/jupyter_worksheet_lib.git
 from lib_worksheet import Worksheet
 worksheet = Worksheet('w1')
 worksheet.hint.offer('q1')
