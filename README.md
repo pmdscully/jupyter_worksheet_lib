@@ -21,7 +21,7 @@ In the current draft version, all files are stored in the same directory your IP
     - `worksheet_w1_q1.json`
  
 ### Usage:
-See the `example_notebook.ipynb` as an example IPYNB worksheet.
+See the [`example_notebook.ipynb`](https://github.com/pmdscully/jupyter_worksheet_lib/blob/main/example_notebook.ipynb) as an example IPYNB worksheet.
 
 #### Usage: Hints
 ```
